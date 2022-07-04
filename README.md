@@ -1,4 +1,7 @@
 # todo-project
 
-# wireframe 
-<image src="/home/walaa/todo-project/assets/wireframe.jpg" alt="wlla talafha"/>
+## wireframe
+
+![wireframe image](./assets/wireframe-1.jpg)
+
+![wireframe image](./assets/wireframe-2.jpg)
