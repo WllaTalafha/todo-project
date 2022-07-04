@@ -1,0 +1,24 @@
+body
+{
+    margin: 50px;
+   background-color: #FFE8D6;
+}
+
+h1
+{
+   color: #6B705C;
+   font-family: 'Dancing Script', cursive;
+   
+}
+p
+{
+   color: #A5A58D;
+   font-family: 'Titan One', cursive;
+   
+}
+
+p
+{
+  
+    border: 1px #B7B7A4;
+}
